@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ali Nasser
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Cpp & C# & Algorithms & Databases
+- 💞️ I’m looking to collaborate on Software Industry and develop open source projects
+- 📫 How to reach me https://www.linkedin.com/in/ali-nasser-68aa4520a/
