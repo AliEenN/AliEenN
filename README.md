@@ -2,6 +2,8 @@
 <h3 align="center">👀 I’m interested in Software Engineering from Egypt</h3>
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/59b34da60e96cdb8562310b9bce58d866ae6ecb9c5d902da794ef3322997a797/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6167616269796f756e6573266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/59b34da60e96cdb8562310b9bce58d866ae6ecb9c5d902da794ef3322997a797/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6167616269796f756e6573266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="agabiyounes" data-canonical-src="https://komarev.com/ghpvc/?username=agabiyounes&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
+<p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/0014dfebe1da7442f7bac54b7f74d625d657241f1c6fb3e8762bdd3b6a6a2be5/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6167616269796f756e6573" alt="agabiyounes" data-canonical-src="https://github-profile-trophy.vercel.app/?username=agabiyounes" style="max-width: 100%;"></a> </p>
+
 - 💞️ I’m looking to collaborate on **Software Industry and develop open source projects**
 
 - 🌱 I’m currently learning **Dotnet & C# & Algorithms & Databases**
