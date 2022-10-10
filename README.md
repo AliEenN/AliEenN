@@ -59,6 +59,6 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliEenN&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="AliEenN" />
 </a></p>
 
-[![Ilithy Activity Graph](https://activity-graph.herokuapp.com/graph?username=AliEenN&custom_title=Ali's%20Contribution%20Graph&theme=radical)](https://github.com/AliEenN)
+[![Ilithy Activity Graph](https://activity-graph.herokuapp.com/graph?username=AliEenN&custom_title=Ali's%20Contribution%20Graph&theme=react-dark)](https://github.com/AliEenN)
   
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
