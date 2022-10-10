@@ -6,7 +6,10 @@
 
 <p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/59b34da60e96cdb8562310b9bce58d866ae6ecb9c5d902da794ef3322997a797/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6167616269796f756e6573266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/59b34da60e96cdb8562310b9bce58d866ae6ecb9c5d902da794ef3322997a797/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6167616269796f756e6573266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="agabiyounes" data-canonical-src="https://komarev.com/ghpvc/?username=agabiyounes&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a></p>
 
-<p align="center" dir="auto"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/0014dfebe1da7442f7bac54b7f74d625d657241f1c6fb3e8762bdd3b6a6a2be5/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6167616269796f756e6573" alt="agabiyounes" data-canonical-src="https://github-profile-trophy.vercel.app/?username=agabiyounes" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a href="https://github.com/AliEenN">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AliEnN&column=7&no-frame=true" />
+<!--   <img width=800 src="https://github-profile-trophy.vercel.app/?username=AliEnN&column=7&theme=gruvbox&no-frame=true" /> -->
+</a></p>
 
 - 💞️ I’m looking to collaborate on **Software Industry and develop open source projects**
 
@@ -23,7 +26,7 @@
 <a href="https://instagram.com/ali__nasser__97" target="blank"><img align="center" src="src/images/icons/Social/instagram.svg" alt="https://instagram.com/ali__nasser__97" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">👨‍💻 Languages and Tools:</h3>
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -54,5 +57,8 @@
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AliEenN&show_icons=true&theme=radical&hide_border=true" />
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliEenN&show_icons=true&theme=radical&hide_border=true" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliEenN&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="AliEenN" />
-  </a></p>
+</a></p>
+
+[![Ilithy Activity Graph](https://activity-graph.herokuapp.com/graph?username=AliEenN&custom_title=Ali's%20Contribution%20Graph&theme=radical)](https://github.com/AliEenN)
   
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
