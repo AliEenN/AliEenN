@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ali.nasser.9.19777@gmail.com**
 
-<h3 align="left">Connect with me:</h3> 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-nasser-68aa4520a/" target="blank"><img align="center" src="src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-nasser-68aa4520a/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/31iNasser" target="blank"><img align="center" src="src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/31iNasser" height="30" width="40" /></a>
