@@ -11,9 +11,11 @@
 <!--   <img width=800 src="https://github-profile-trophy.vercel.app/?username=AliEnN&column=7&theme=gruvbox&no-frame=true" /> -->
 </a></p>
 
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 - 💞️ I’m looking to collaborate on **Software Industry and develop open source projects**
 
-- 🌱 I’m currently learning **Dotnet & C# & Algorithms & Databases**
+- 🌱 I’m currently learning **C#, .NET, DS, Algo, Databases**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliEenN](https://github.com/AliEenN)
 
@@ -67,6 +69,4 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliEenN&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="AliEenN" />
 </a></p>
 
-[![Ilithy Activity Graph](https://activity-graph.herokuapp.com/graph?username=AliEenN&custom_title=Ali's%20Contribution%20Graph&theme=react-dark)](https://github.com/AliEenN)
-  
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
